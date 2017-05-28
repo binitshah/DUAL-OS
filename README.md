@@ -1,4 +1,2 @@
-# UNIX-OS
-Our implementation of a UNIX based OS.
-
+# Dual OS
 Welcome to the jungle.
